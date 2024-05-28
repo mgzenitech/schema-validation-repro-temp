@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+      "@stylistic/eslint-plugin-js": "2.1.0",
+      "eslint": "9.3.0",
+      "eslint-plugin-json-schema-validator": "5.1.0",
+      "eslint-plugin-jsonc": "2.15.1"
+    },
+    "scripts": {
+      "lint": "eslint --debug .vscode/settings.1.globals.ui.json"
+    },
+    "engine": ">=22.0.0"
+}
+  
